@@ -1,3 +1,5 @@
+Video Link= https://www.youtube.com/watch?v=pUAgg0TzSHw
+
 # aws-cdk-python
 
 ![https://cdkworkshop.com/images/cdk-logo.png](https://cdkworkshop.com/images/cdk-logo.png)
