@@ -1,5 +1,8 @@
 Video Link= https://www.youtube.com/watch?v=pUAgg0TzSHw
 
+
+AWS CDK With Python = https://docs.aws.amazon.com/cdk/v2/guide/ecs_example.html
+
 # aws-cdk-python
 
 ![https://cdkworkshop.com/images/cdk-logo.png](https://cdkworkshop.com/images/cdk-logo.png)
